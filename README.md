@@ -115,5 +115,5 @@ interests: Exploring new technologies, Open-Source & Problem Solving
 </p>
 
 <p align="center">
-  <i>⭐️ Dibuat dengan semangat belajar dan eksplorasi tiada henti! ⭐️</i>
+  <i>⭐️ Dibuat dengan semangat belajar dan eksplorasi tiada henti siap terjun di industri! ⭐️</i>
 </p>
