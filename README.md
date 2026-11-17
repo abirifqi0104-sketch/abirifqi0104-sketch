@@ -74,13 +74,19 @@ interests: Exploring new technologies, Open-Source & Problem Solving
 
 ---
 
-### 🐍 Contribution Snake Eater
+### 🕹️ Pac-Man Arcade Contribution Game
 
 <div align="center">
+  <!-- Animasi Pac-Man & 3 Hantu Berbaris -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Pac-Man and Ghosts" />
+  
+  <br><br>
+
+  <!-- Game Interaktif Pac-Man & 4 Hantu Mengejar Kotak Kontribusi -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abirifqi0104-sketch/abirifqi0104-sketch/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abirifqi0104-sketch/abirifqi0104-sketch/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/abirifqi0104-sketch/abirifqi0104-sketch/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abirifqi0104-sketch/abirifqi0104-sketch/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abirifqi0104-sketch/abirifqi0104-sketch/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abirifqi0104-sketch/abirifqi0104-sketch/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
@@ -92,7 +98,7 @@ interests: Exploring new technologies, Open-Source & Problem Solving
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abirifqi0104-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=abirifqi0104-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=abirifqi0104-sketch&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" />
@@ -100,7 +106,7 @@ interests: Exploring new technologies, Open-Source & Problem Solving
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abirifqi0104-sketch&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=abirifqi0104-sketch&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
 </div>
 
 ---
